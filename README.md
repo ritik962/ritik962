@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Writing cleaner, scalable code
 - 💬 Ask me about Frontend Development, React basics, Props, Hooks & UI design
 - 📫 How to reach me: ritikroshan5387744@gmail.com
-- ⚡ Fun fact: I’m balancing a full-time job, MCA, and learning every day to become a better developer
+- ⚡ Fun fact: I’m constantly learning and building to become a better developer every day 🚀
 
